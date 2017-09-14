@@ -1,2 +1,4 @@
 # yt-popout
-Copy youtube video ID and this script will pop it out in a dedicated window. Pairs well with altdrag
+Copy a YouTube video URL and run this script to pop it out in a dedicated window. Assumes Chrome is your preferred browser and that it is installed on your C drive.
+
+Pairs extremely well with [AltDrag](https://stefansundin.github.io/altdrag/) and its always-on-top feature!
